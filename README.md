@@ -21,7 +21,7 @@ This project presents a sales performance dashboard built using Microsoft Excel.
 ## Dataset
 The dataset is self-generated for demonstration purposes and does not represent real individuals or companies.
 
-## 📊 Excel Workbook Info
+## Excel Workbook Info
 
 The file `sales_dashboard.xlsx` contains:
 - **Sheet 1 – Data**: Self-generated sales data with fields like Name, Region, Sales, and Target.
