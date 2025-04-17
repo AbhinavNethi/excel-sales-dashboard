@@ -31,11 +31,11 @@ You can view the dashboard image in the `assets/` folder, or open the full Excel
 
 ## Project Structure
 
-- `assets/` – Contains the dashboard screenshot (`Screenshot 2025-04-17 191007.png`)
+- `assets/` – Contains the dashboard screenshot (`Dashboard.png`)
 - `data/` – Includes the Excel workbook (`sales_dashboard.xlsx`) with:
   - Sheet 1: Raw sales data
   - Sheet 2: Pivot tables and visualizations
 - `README.md` – This file, containing project description and insights.
 
 ## Preview
-![Dashboard Screenshot](assets/Screenshot 2025-04-17 191007.png)
+![Dashboard Screenshot](assets/Dashboard.png)
